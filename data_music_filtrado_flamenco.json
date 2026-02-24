@@ -1,0 +1,2067 @@
+[
+    {
+        "id":"5EY4OgQAzbbmLcfX71CYph",
+        "artist_name":"Pastora Soler",
+        "track_name":"Demasiado amor",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"7aWPY1wzpVdMUwptggaDCG",
+        "artist_name":"Pastora Soler",
+        "track_name":"Non credere",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"44rf2YH4E2bItZmoyRLXhZ",
+        "artist_name":"David DeMaría",
+        "track_name":"Días de sol",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"245yCf5jTX1Jgkbr960i6h",
+        "artist_name":"Sandra Carrasco",
+        "track_name":"Resistiré",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"6wsGAmBh5t9opcPFwCRamC",
+        "artist_name":"Las Niñas",
+        "track_name":"Cuento de la buena pipa",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"67PIppKs4roO9fFd26FjY3",
+        "artist_name":"David DeMaría",
+        "track_name":"No sé qué darte más",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"1RqN3UskoBNA7cYgQ6DahD",
+        "artist_name":"Diego Martín",
+        "track_name":"Pa decirte... pa contarte",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"4E3p4A2f5lOMyGSvvJY3o2",
+        "artist_name":"Las Niñas",
+        "track_name":"Llueve",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"41uQfQwunJgJcfsKe3i0Qe",
+        "artist_name":"David DeMaría",
+        "track_name":"Jugando con los charcos (Directo, Barcelona) - Live",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"346rBXIkDuIYX1MpDGwrkS",
+        "artist_name":"David DeMaría",
+        "track_name":"La niña de los ojos de cielo",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"3478Lpci4ehyGi5jmnS5m3",
+        "artist_name":"David DeMaría",
+        "track_name":"Relojes de arena",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"2G2xgBxtTwfSt3bx3fNQJq",
+        "artist_name":"Los Malos",
+        "track_name":"Cerquita de Ti",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"2h7cil3xAdqDIUpnO0l7nF",
+        "artist_name":"David DeMaría",
+        "track_name":"Seria una pena",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"5qeIJRQsy6dxSWGQitFVUY",
+        "artist_name":"Vanesa Martín",
+        "track_name":"Perdiendo el equilibrio",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"7eF461xQvoDuGPgblk9uWH",
+        "artist_name":"Pastora Soler",
+        "track_name":"En mi soledad",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"0CRzeI0nA7KUJFr7lCYtqD",
+        "artist_name":"Diego Martín",
+        "track_name":"Ni frío ni calor",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"2qs9uvkx07Xveg7MR1emtQ",
+        "artist_name":"Sevillanas",
+        "track_name":"Amante de Santiago",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"32gv4GWaYUD99AHdJlO920",
+        "artist_name":"Pastora Soler",
+        "track_name":"Ven a mi",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"0hQ8QAoHVfeACe71M1mHrc",
+        "artist_name":"David DeMaría",
+        "track_name":"Despertaré cuando te vayas",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"4Ehj5djESQPypnaikXIeLO",
+        "artist_name":"Las Niñas",
+        "track_name":"Cada vez",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"7CDS8WR5Nf0iXmLRN4Pi8P",
+        "artist_name":"David DeMaría",
+        "track_name":"Aquí me tienes corazón",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"4yNJ0O8ZQejFQbFMz9Roj2",
+        "artist_name":"Las Niñas",
+        "track_name":"Más de mil cámaras",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"2JPGSQjVzFI30pWSpxfK2c",
+        "artist_name":"Jaidek",
+        "track_name":"Move Your Feet Like This",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"6nHxSRlThyjFm7Jiod5yrx",
+        "artist_name":"David DeMaría",
+        "track_name":"El amor que me das",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"1jl1tzyYze86SCnNxEglUN",
+        "artist_name":"David DeMaría",
+        "track_name":"Niña piensa en ti",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"7l6EXNGFKmxZSDe02YlRi4",
+        "artist_name":"Antonio José",
+        "track_name":"A Un Milímetro De Ti",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"4Y05cWUKH3Z3eS8TfFShnk",
+        "artist_name":"Angelillo",
+        "track_name":"Soy un pobre presidiario",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"2R66F9om654wvKpGDJ9deq",
+        "artist_name":"El Combo Linga",
+        "track_name":"Tipical Espein",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"20CmjJobcKMgPmp9hDTiU7",
+        "artist_name":"David DeMaría",
+        "track_name":"Demos tiempo al tiempo",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"5i1lzKwFWJ8eVrzGE9txna",
+        "artist_name":"Al Di Meola",
+        "track_name":"Oblivion",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"3p71qsMHL9vmZP9m1NQHfn",
+        "artist_name":"Los Malos",
+        "track_name":"Siente la Noche",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"4R2XWIzsL4wdcKOUGqre9w",
+        "artist_name":"David DeMaría",
+        "track_name":"Enamorada",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"57S3M3Q2t7naqq3LMMB9Uj",
+        "artist_name":"El Sombrero del Abuelo",
+        "track_name":"Canción de Barro",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"3OIFnGIYvN4YXd7QocarTj",
+        "artist_name":"Las Niñas",
+        "track_name":"Menos ropa",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"7ctfqLaCdfwWXgPHDzv6Wx",
+        "artist_name":"El Sombrero del Abuelo",
+        "track_name":"Vuela Libre",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"0hAzlMTl8kvkjCe3pKEYgZ",
+        "artist_name":"Las Niñas",
+        "track_name":"Castillos Y sueños",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"2wDrxlnx5Sp55dCe9swZH3",
+        "artist_name":"Los Malos",
+        "track_name":"Fantasmas de la Sobriedad",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"0d3VdgUthj2U9VkNuDq4xv",
+        "artist_name":"Vanesa Martín",
+        "track_name":"Sintiéndonos",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"3k4lxUNG5VSKV1ozanqexJ",
+        "artist_name":"El Combo Linga",
+        "track_name":"Añoro (Bossamba)",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"3Ng1FjoBlQFnMWuxb027Ad",
+        "artist_name":"Pastora Soler",
+        "track_name":"Quien",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"6LeoZ3gjRteTiLyy9n6LZx",
+        "artist_name":"El Combo Linga",
+        "track_name":"La jara",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"6H9Pm8CQiOzrgQR9iAbQN9",
+        "artist_name":"David DeMaría",
+        "track_name":"Promesa de amor",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"78yVqTJGzskXgpqJskzeUG",
+        "artist_name":"Diego Martín",
+        "track_name":"Háblame",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"4uk1QaROb5cuSnUcaMCZv8",
+        "artist_name":"Los Malos",
+        "track_name":"Pelotas",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"1UcC3aB51O6UGp6O6WqoEH",
+        "artist_name":"Vanesa Martín",
+        "track_name":"Sucederá",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"7aIrJvihcUSjKxrpywuGES",
+        "artist_name":"Pastora Soler",
+        "track_name":"Ahora o nunca (Eurovisión)",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"1pDn09QTMT5tzVoRRw5uuK",
+        "artist_name":"Pastora Soler",
+        "track_name":"Otra ocupa mi lugar",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"2I2l7pOAvyuio72LMU0K2c",
+        "artist_name":"Diego Martín",
+        "track_name":"Si no nos tenemos",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"42TPDTZpSIUb7Ti2rOHE6C",
+        "artist_name":"El Combo Linga",
+        "track_name":"El viaje (Sambareggaenawa)",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"3ku4Gro3IiZ979DL2MZD3o",
+        "artist_name":"David DeMaría",
+        "track_name":"Pa cuando necesites que yo esté",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"5qDquS16GNMmUXMg5sfqY2",
+        "artist_name":"David DeMaría",
+        "track_name":"Donde nace la belleza",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"2P8fSpVr6Mre85zeN7Z37X",
+        "artist_name":"Las Niñas",
+        "track_name":"Quéreme a mi na má",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"5jtJcdX7NQHy1WtQWTYkvU",
+        "artist_name":"Estas Tonne",
+        "track_name":"Conversation-What’s the Next Song? - Remastered\/B&W Version",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"5jtJcdX7NQHy1WtQWTYkvU",
+        "artist_name":"Michael Shulman",
+        "track_name":"Conversation-What’s the Next Song? - Remastered\/B&W Version",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"4K5Do3V6M5NAeCIlz6xHWZ",
+        "artist_name":"Vanesa Martín",
+        "track_name":"Ni tú ni yo",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"5pvn1mZ0RjDDtSShSkmCwg",
+        "artist_name":"Las Niñas",
+        "track_name":"Super mujeres",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"1yLZeyoTwUH7Kb5T4sbMpu",
+        "artist_name":"David DeMaría",
+        "track_name":"Amo sin decir te quiero",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"6RQa8g04E3i7j2b9nD9LfE",
+        "artist_name":"Carlos Montoya",
+        "track_name":"Bolero",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"3PXiAsFyd9bQNxAHfAL0lJ",
+        "artist_name":"Israel Fernández",
+        "track_name":"Bulería Del Reproche",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"3PXiAsFyd9bQNxAHfAL0lJ",
+        "artist_name":"Diego del Morao",
+        "track_name":"Bulería Del Reproche",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"5exYJPFSi0z8Eu7SExQ9ib",
+        "artist_name":"Antonio Reyes",
+        "track_name":"Del Color de la Aceituna (Sevillanas)",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"5exYJPFSi0z8Eu7SExQ9ib",
+        "artist_name":"Diego del Morao",
+        "track_name":"Del Color de la Aceituna (Sevillanas)",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"7uolGmUpD4QTd3fiHlhREa",
+        "artist_name":"Daniel Casares",
+        "track_name":"Mi refugio",
+        "genre":"flamenco",
+        "year":2020
+    },
+    {
+        "id":"0XvOq2jVf3Rcp2Lhzc8JIh",
+        "artist_name":"Vanesa Martín",
+        "track_name":"El amor no se explica",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2ObVXhEMJt9iW4gQEG8tjy",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Puentecito - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"31BUxbq8Xj2yAFd0jay6Pi",
+        "artist_name":"Angelillo",
+        "track_name":"Soy un pobre presidiario",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"7ntUOfPS9fivLoIRMY556s",
+        "artist_name":"El Combo Linga",
+        "track_name":"Africa",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2uKYI4rkCTX3naCh7LdbAi",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Dónde vas, duquesa",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2O6vhuu386Mi7iiaaEKHpQ",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Quédate con Dios - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6fqF4teJbyuqRCZyCBnBOa",
+        "artist_name":"Diego Martín",
+        "track_name":"Pirata en el olvido (Con rap)",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"5091KhV3EmjpenCv5ZtCXL",
+        "artist_name":"Jaidek",
+        "track_name":"Pump It Up - Original Mix",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"41imNznZ9hI6Yl44uKFrO9",
+        "artist_name":"Angelillo",
+        "track_name":"El querer no tiene edad - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"3QTh9DjnpmCK48jHoh9WGt",
+        "artist_name":"Angelillo",
+        "track_name":"Soy un pobre presidiario - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"3n08K99d9Hgyk31Gfch5Hv",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Dime que sí",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"1O9Cbyscx7l7IgrZQ3a9qU",
+        "artist_name":"Diego Martín",
+        "track_name":"Un besito más",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"7a1NXosnSWLBaP9o8YZt6t",
+        "artist_name":"Las Niñas",
+        "track_name":"Ojú!!! - Artelojazz Remix",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"71PIMOUkTdsa8HX3KD3gIu",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Ven a mí",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6sT5vje9PtEiftBSliqyYc",
+        "artist_name":"Angelillo",
+        "track_name":"Si yo fuera capitán - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2jcygJtP8nGy6TeL5iPDWJ",
+        "artist_name":"Luis Maravilla",
+        "track_name":"Brisas malagueñas",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"1aNL62AkS8YdjZvHsQIIlM",
+        "artist_name":"Luis Maravilla",
+        "track_name":"Por la sierra de Cordoba (serranas)",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2jt24dAZ9Cz4XHL2wNCUG9",
+        "artist_name":"Ramon Montoya",
+        "track_name":"Granadina",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2MAOv6XdfxyeQkiV3XEtCj",
+        "artist_name":"David DeMaría",
+        "track_name":"Niña piesna en ti (Version canica)",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"1wGGHfR9p3kbShaP2G98jN",
+        "artist_name":"Angelillo",
+        "track_name":"Radio Cuba",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"3F5hzKqngR4BPMFRV7gcHq",
+        "artist_name":"Vanesa Martín",
+        "track_name":"Tiempo de espera",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"7ICQIR0uGfTRnjzEjdSPr6",
+        "artist_name":"David DeMaría",
+        "track_name":"Rojo",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"5EzuyvREjyQg4qiIVD0YJR",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Garrocistas de jerez",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"5EzuyvREjyQg4qiIVD0YJR",
+        "artist_name":"Nicasio Tejada Orchestra",
+        "track_name":"Garrocistas de jerez",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"7ptdIaOq79EeS3Gnom8vRT",
+        "artist_name":"Luis Maravilla",
+        "track_name":"Malagueña",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4AaebMw8eJH3ILgAayJaMi",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Serrano... Te quiero!",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4AaebMw8eJH3ILgAayJaMi",
+        "artist_name":"A. Vélez \"El Duquesito\"",
+        "track_name":"Serrano... Te quiero!",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4AaebMw8eJH3ILgAayJaMi",
+        "artist_name":"Juan Solano Orchestra",
+        "track_name":"Serrano... Te quiero!",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"3XTqBcvoJk3mjfRH55S61c",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"De caña dulce",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2vafmrCn0udQCYshrnNt1b",
+        "artist_name":"Angelillo",
+        "track_name":"Chiclanera - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"3jV862VaIZ935X4wXKOoXL",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Con el catapún",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"0EVYO6JCoPTKuUU2GAo25p",
+        "artist_name":"Angelillo",
+        "track_name":"Mi jaca",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"0EVYO6JCoPTKuUU2GAo25p",
+        "artist_name":"Orquesta Sevilla Tipica Española",
+        "track_name":"Mi jaca",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"7j6q5FUSmCWCncstP8mNtl",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Volviendo a España",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"7j6q5FUSmCWCncstP8mNtl",
+        "artist_name":"Alberto Vélez García",
+        "track_name":"Volviendo a España",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4WGoszXnMkEKGKCzmrfBhw",
+        "artist_name":"Las Niñas",
+        "track_name":"Llueve",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"0JObWCx6srsm0cK9BX5Obl",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Corazón, no llores - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"60Na0YUzVe1dGuRfbLjkqj",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Las mujeres cabales - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4sTn6SleNR0tMQw27wS62q",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Un Sueño De Gloria",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"5L3vIzLckRf6WD2nPwWNYO",
+        "artist_name":"Pastora Soler",
+        "track_name":"No me da miedo",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"5bSrTKhvqKklY9mG3GcyNN",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Dime que sí - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6ZyJO9lAlUxZDxm6JpEXRY",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Carretera de Asturias - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"5hbDUuR4s1Y1wwH2aRNDx3",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Un sueño de gloria, From : «El niño de las monjas»",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"1ZVUJeTMLGHLl3SgN7Rdot",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Garrochistas de Jerez - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6kyeWpIzsVi2XRiJFfd18U",
+        "artist_name":"Angelillo",
+        "track_name":"Vuelve a vivir",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6kyeWpIzsVi2XRiJFfd18U",
+        "artist_name":"Orquesta Acroama",
+        "track_name":"Vuelve a vivir",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6kyeWpIzsVi2XRiJFfd18U",
+        "artist_name":"Manuel Quiroga",
+        "track_name":"Vuelve a vivir",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"5xoTZNPzbMLVKSZmjZBjlc",
+        "artist_name":"Las Niñas",
+        "track_name":"Quéreme a mi na má",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"3N69kzpGne9wAZcmC3ixcQ",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Sevillanas del recuerdo - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"35F3XNI7pPqKCr2Yp4DYis",
+        "artist_name":"Luis Maravilla",
+        "track_name":"Judea (Arr. F. Merenciano For Guitar)",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"35F3XNI7pPqKCr2Yp4DYis",
+        "artist_name":"Dang Ngoc Long",
+        "track_name":"Judea (Arr. F. Merenciano For Guitar)",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"1mgQHWzxKO43U26FGptmNZ",
+        "artist_name":"Angelillo",
+        "track_name":"El clavel y la rosa - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"1J840ZyUXvMDS4rOpqMzOa",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Dolores, la Macarena - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"5hqo66GUzAgqqzk2HQQOr5",
+        "artist_name":"El Combo Linga",
+        "track_name":"Las lenguas",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4qLcT7nU6AjFXMU14qZmxu",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Volviendo a España - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"5MPhhIOdzd4P4hLLqO2gqV",
+        "artist_name":"Pastora Soler",
+        "track_name":"Espérame",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"0UHg8S5tCvq2KYW1fHNOGG",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Un sueño de gloria - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"0B7APhIWwzWOW2Dj6TWLg8",
+        "artist_name":"Pastora Soler",
+        "track_name":"Me quema el amor",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"0vXqRL10xiKHtVcBIAKiWl",
+        "artist_name":"Angelillo",
+        "track_name":"Fernanda - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6jlen8Voq1OUCanUsH7uFD",
+        "artist_name":"Angelillo",
+        "track_name":"Doce Cascabeles - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2YFncOAYHc8gUrCEZJQCLE",
+        "artist_name":"David DeMaría",
+        "track_name":"Lo que pudo ser",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"3bzeroPCtip2272QYTFRUf",
+        "artist_name":"Luis Maravilla",
+        "track_name":"El baile de la Macaronna (alegrias)",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6aZh6jIGeEq9IxbtpMN09Q",
+        "artist_name":"Angelillo",
+        "track_name":"Romance de Juan Clavel",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6aZh6jIGeEq9IxbtpMN09Q",
+        "artist_name":"Orquesta Acroama",
+        "track_name":"Romance de Juan Clavel",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6aZh6jIGeEq9IxbtpMN09Q",
+        "artist_name":"Manuel Quiroga",
+        "track_name":"Romance de Juan Clavel",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"3tZPXGhlXWJIE47QjYHHls",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"¿Dónde vas duquesa? - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2mleSVDeYDZmdzk4PLgSv8",
+        "artist_name":"Angelillo",
+        "track_name":"Tengo una hermanilla chica - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"5aMckfOFOFOD5EXPjR5gMY",
+        "artist_name":"Diego Martín",
+        "track_name":"Cuando me olvido",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"3cevII0gBiBpUOpbBfU4Uc",
+        "artist_name":"Las Niñas",
+        "track_name":"Oye",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4uoJiEmNyFGhtG2IZVkTg3",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Carreteras de Asturias",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"7927uqGEY5L5GAD2IWfKy5",
+        "artist_name":"Angelillo",
+        "track_name":"Chiclanera",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"7927uqGEY5L5GAD2IWfKy5",
+        "artist_name":"Orquesta Andrés Moltó",
+        "track_name":"Chiclanera",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4iJvapK6mOEYPl6cjnOKg3",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Coplas del Yo te quiero - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"3ooJstZ2ZOC61T8akWPcOg",
+        "artist_name":"Angelillo",
+        "track_name":"Los ojitos de mi mare - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2Pz6O7tHNXsGlAp8vIz2J3",
+        "artist_name":"Pastora Soler",
+        "track_name":"Se me va la vida - Pumpin Dolls Remix",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"28lKiley2yYfiRNzIeLjRQ",
+        "artist_name":"Pastora Soler",
+        "track_name":"Una mujer como yo",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4S6SKt25Pr3MV0DqkeftOD",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Manolo Flores - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6pxtkKdBOFkPZHmhjoOqBe",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Ven a mi - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6u1tJdDoG5VuVRjCrhZ5Fx",
+        "artist_name":"Pastora Soler",
+        "track_name":"En mi soledad",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"5sX6tpkZWw8DT1mAFC8EFT",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Coplas del - Quién ha sido - (Dolores la Macarena)",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"414c8ttOfrtpadSq017KZV",
+        "artist_name":"David DeMaría",
+        "track_name":"Mejor por dentro",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"23LNVrIZmN9rR6lFEoiBJU",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"El cordón de mi corpiño",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"23LNVrIZmN9rR6lFEoiBJU",
+        "artist_name":"Alberto Vélez García",
+        "track_name":"El cordón de mi corpiño",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"0HMdoVFT1xVHjtbSdYwtBn",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Rosa la de los lunares - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2KOmJeXUQruFvkuZnykDxi",
+        "artist_name":"Angelillo",
+        "track_name":"Como aquella Magdalena - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"3coSVC3GWUOifPw2FUpN4e",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"A la una y a las dos - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4IvUnsMwHn54jZ0UeZC3k0",
+        "artist_name":"Luis Maravilla",
+        "track_name":"Tientos y marianas",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"708XSq2lmVAgjPe8mCEeVF",
+        "artist_name":"David DeMaría",
+        "track_name":"Amar sin saber amar",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"1BOyi7BbLO1GijlbSm0MUc",
+        "artist_name":"Luis Maravilla",
+        "track_name":"Mi farruca gitana",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"327V2EjNlojlCe9rGQ0JXL",
+        "artist_name":"MARÍA TOLEDO",
+        "track_name":"TE SOLTÉ LA RIENDA",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6VkEVyvtPOJRwMV2O0SWnz",
+        "artist_name":"Angelillo",
+        "track_name":"Con aquella Magdalena",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6VkEVyvtPOJRwMV2O0SWnz",
+        "artist_name":"Orquesta Andrés Moltó",
+        "track_name":"Con aquella Magdalena",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"7e3I6YI9xDRuGaAlG9z9Po",
+        "artist_name":"Angelillo",
+        "track_name":"Camino verde - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2Wmo5i9AZ2uh21fZKw0maG",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Coplas del \"yo te quiero\"",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6hS6HNYhR4yVt4xAdeHw61",
+        "artist_name":"Pastora Soler",
+        "track_name":"Damelo ya (Directo) - Live",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"1a6Oxcv1AJ1kTFuU1QABRV",
+        "artist_name":"Pastora Soler",
+        "track_name":"Que va a ser de mi",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6JFFpcGBDA70Y4gBYFT1CW",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"El torito de la suerte",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6JFFpcGBDA70Y4gBYFT1CW",
+        "artist_name":"Orquesta José Sabre Marroquín",
+        "track_name":"El torito de la suerte",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4yRrshNrtKHD73EodvuPkR",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Cuatro monedas - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2ShrGRv7c25DL4enE97HXw",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Mi pregón de flores - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"5IiLBRxArfZtlcs5He2FhU",
+        "artist_name":"Angelillo",
+        "track_name":"Los ojitos de mi madre - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2RLcpOPYUM13IITGwrTdkE",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"El cordón de mi corpiño - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6NyGljaD9Tw6dtW6EMdn6I",
+        "artist_name":"Ojos de Brujo",
+        "track_name":"Tiempo de Drumba - Panko Remix",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"0MWOujxlwX29CLsll7JCuZ",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Cuando te vi padecer - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4R0qVws7sq6MpRIvrknI12",
+        "artist_name":"Angelillo",
+        "track_name":"Si yo fuera capitan",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"59JJdanlo6yhbSaTr4Cex1",
+        "artist_name":"Diego Martín",
+        "track_name":"Por arte de magia",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4X54L7zFxYcHhPSp4HhAeq",
+        "artist_name":"Jaidek",
+        "track_name":"We'll Never Fall - Radio Edit",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"1TmOg9JJ6lROjg7GbJbY7M",
+        "artist_name":"David DeMaría",
+        "track_name":"Caminos de ida y vuelta (Piano y voz)",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"5Pmb182BlWcMiBnSqYLBt4",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"A la una y a las dos",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"5Pmb182BlWcMiBnSqYLBt4",
+        "artist_name":"Nicasio Tejada Orchestra",
+        "track_name":"A la una y a las dos",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2evBv5g3hXVngHSdENfncS",
+        "artist_name":"Luis Maravilla",
+        "track_name":"Zapateado de la tanquera (zapateado en do)",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4OtxTRPw9sQb73TdgGnMG1",
+        "artist_name":"David DeMaría",
+        "track_name":"Palabras vacías",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6YpIPAUO2FTJZEdQWj61da",
+        "artist_name":"Luis Maravilla",
+        "track_name":"Falsetas por bulertas",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"3bWZXuTo0DqqFdzseSbGko",
+        "artist_name":"Vanesa Martín",
+        "track_name":"Inmunes",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6IMTJbg0fzg1N1w8bDvsaK",
+        "artist_name":"Las Niñas",
+        "track_name":"Castillos Y sueños",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"3SdSCEr6TOA9to9CGJBUVx",
+        "artist_name":"Luis Maravilla",
+        "track_name":"Huayno (danza inca)",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2VTiEkoVw3NcRWxNUBkyx4",
+        "artist_name":"Angelillo",
+        "track_name":"Paco el minero - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"6ywanCSaPJS16c04bZIrzu",
+        "artist_name":"David DeMaría",
+        "track_name":"El estrecho se hizo eterno",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"4BzL7iLT6LCVLfhfPtiNtU",
+        "artist_name":"Luis Maravilla",
+        "track_name":"La guitarra por huelva (fandangos)",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"03lvS0BY5CiLPcqj8qu2T0",
+        "artist_name":"Pastora Soler",
+        "track_name":"Quédate conmigo (Versión Baku)",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2z7KFcdfLW9FSyTsRb3MHf",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"¿Donde vas Duquesa? - Remastered",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"60yT8oDuybc71FZefxUR5h",
+        "artist_name":"Manuel Cerpa",
+        "track_name":"Renacer (Soleá por Bulería)",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2Zldp1HLyva5PF3QfJ2cRw",
+        "artist_name":"Bily de Figueras",
+        "track_name":"Libre Como el Aire",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"1VummvqpxN6yK2kiNGPyUR",
+        "artist_name":"Manuel de Cantarote",
+        "track_name":"Bulería a la Asunción",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"1VummvqpxN6yK2kiNGPyUR",
+        "artist_name":"Capullo de Jerez",
+        "track_name":"Bulería a la Asunción",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2TVaSagB0ZW8EbNVPJv61b",
+        "artist_name":"Keko Baldomero",
+        "track_name":"Respira el aire",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"2TVaSagB0ZW8EbNVPJv61b",
+        "artist_name":"Israel Fernández",
+        "track_name":"Respira el aire",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"096HXYN87wgfRAjys4054A",
+        "artist_name":"Manuel de Cantarote",
+        "track_name":"Bulerías por Soleá",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"7j8PF31S7CkAdy22AMqup8",
+        "artist_name":"Fernando Carrasco",
+        "track_name":"Revolución",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"7j8PF31S7CkAdy22AMqup8",
+        "artist_name":"Diego del Morao",
+        "track_name":"Revolución",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"31g6bN9xXyfQo3uIgAr26x",
+        "artist_name":"Kiki Morente",
+        "track_name":"Voces Del 3 De Mayo - Seguiriya",
+        "genre":"flamenco",
+        "year":2021
+    },
+    {
+        "id":"75GUkTe2pLYqYWwlAx8mtP",
+        "artist_name":"Diego Martín",
+        "track_name":"Y no hago na",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"4uD1XptZS5liPJdm421rtO",
+        "artist_name":"Sabicas",
+        "track_name":"Damasco (Danza Arabe)",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"5E1ieKZe08IO6aasGiFi5m",
+        "artist_name":"Angelillo",
+        "track_name":"Doce Cascabeles",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"5yy2HIbd6UvG2A3iREX5fe",
+        "artist_name":"Javier Segura",
+        "track_name":"Aquellos Lugares",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"7KaU2xS0c4aISxUWMasU9i",
+        "artist_name":"David DeMaría",
+        "track_name":"Sin decirnos nada",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"4shRKKOhnztgyFXNPWT7dF",
+        "artist_name":"Javier Segura",
+        "track_name":"Despertando en Lilliput",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"0nS98LTQZtSFoNaQCtsW51",
+        "artist_name":"Javier Segura",
+        "track_name":"Te Amé",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"5nj56GSi3C7Y0hd2j0v1Eu",
+        "artist_name":"Javier Segura",
+        "track_name":"Folías de Amor",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"2RQgawuO7J5HjnAIlWIsZI",
+        "artist_name":"Javier Segura",
+        "track_name":"La Mujer de la Foto",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"26Yilc0Xl1DTO6ijQbbclS",
+        "artist_name":"Javier Segura",
+        "track_name":"Julia",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"4QVGnyRY017fpSDGCCg4wV",
+        "artist_name":"Angelillo",
+        "track_name":"Camino Verde",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"2sCaIa07xfoOjmlFvKmyPC",
+        "artist_name":"Ecos del Rocío",
+        "track_name":"Desde Cai a Sevilla",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"2GuAvzHic4CITwHvtb88KF",
+        "artist_name":"Jaidek",
+        "track_name":"Sensations",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"1jFr6zITbhDoCGFAtqrsDB",
+        "artist_name":"Javier Segura",
+        "track_name":"Tan Sólo Era un Niño",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"3EkglDGTfF1tUl65ifpUrg",
+        "artist_name":"Aurora",
+        "track_name":"Ballo e canto",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"25cMH1KEqPTjdeTC7bvNJK",
+        "artist_name":"Enrique Heredia Negri",
+        "track_name":"Speak Low",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"25cMH1KEqPTjdeTC7bvNJK",
+        "artist_name":"Benet Palet",
+        "track_name":"Speak Low",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"25cMH1KEqPTjdeTC7bvNJK",
+        "artist_name":"Michele Faber",
+        "track_name":"Speak Low",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"25cMH1KEqPTjdeTC7bvNJK",
+        "artist_name":"Curro Gálvez",
+        "track_name":"Speak Low",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"6MPXkUPyyBm0WjDKSPWp0v",
+        "artist_name":"Enrique Heredia Negri",
+        "track_name":"Sonora",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"6MPXkUPyyBm0WjDKSPWp0v",
+        "artist_name":"Benet Palet",
+        "track_name":"Sonora",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"6MPXkUPyyBm0WjDKSPWp0v",
+        "artist_name":"Michele Faber",
+        "track_name":"Sonora",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"6MPXkUPyyBm0WjDKSPWp0v",
+        "artist_name":"Curro Gálvez",
+        "track_name":"Sonora",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"6sgX7dIshwO7Fz3q9XdKWB",
+        "artist_name":"Elbicho",
+        "track_name":"Los rokipankis",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"2beK27UYyTslXcwX8zhJOd",
+        "artist_name":"Jaidek",
+        "track_name":"Pump It Up - Mixed",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"2O1JnTQTps5EfmSxR9FqU4",
+        "artist_name":"David DeMaría",
+        "track_name":"Días de sol - Marko Katier Remix",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"5mcxvO7bS9TZvSGdcaQx7t",
+        "artist_name":"Javier Segura",
+        "track_name":"El Error",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"6iJLPLTzcisEPDmwlgtrhn",
+        "artist_name":"Luis de Perikin",
+        "track_name":"Flamencamente",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"6iJLPLTzcisEPDmwlgtrhn",
+        "artist_name":"María Terremoto",
+        "track_name":"Flamencamente",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"6iJLPLTzcisEPDmwlgtrhn",
+        "artist_name":"Anabel Valencia",
+        "track_name":"Flamencamente",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"6iJLPLTzcisEPDmwlgtrhn",
+        "artist_name":"Sara Sanchez",
+        "track_name":"Flamencamente",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"1ZnFqm1JgSIOu21tyVOHxI",
+        "artist_name":"La Fabi",
+        "track_name":"Soy Flamenca",
+        "genre":"flamenco",
+        "year":2022
+    },
+    {
+        "id":"5achZdpIyRPbJ4WnIm5o6x",
+        "artist_name":"Merche",
+        "track_name":"Abre Tu Mente",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"74kKK5Wi96iVwEOjJPQUQO",
+        "artist_name":"Antonio José",
+        "track_name":"A Ras De Suelo",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"4GXqRs7diDegS6BONVMnZE",
+        "artist_name":"Vanesa Martín",
+        "track_name":"Complicidad",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"2h0XqeSz7RC3G2dbj1HVxw",
+        "artist_name":"Vanesa Martín",
+        "track_name":"La vida",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"0dTr88UMblgrmhRhTlme8j",
+        "artist_name":"LaRumbé",
+        "track_name":"Hoy hace sol original",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"5mR03DglWHbFQ7yDE0B7m0",
+        "artist_name":"Manu Tenorio",
+        "track_name":"Sucede",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"4QGWp3ZEVnPjT1Qcb87mKC",
+        "artist_name":"Antonio Orozco",
+        "track_name":"Estoy Hecho De Pedacitos De Ti",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"5A0dF1ZGo46ucljoOunqtl",
+        "artist_name":"Manu Tenorio",
+        "track_name":"Contigo Aprendí",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"6EH6Z7UlXmGcObzC8TgBd6",
+        "artist_name":"Pedro Javier González",
+        "track_name":"Ídolos",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"3UENYzsaurH2kjsB8vBm2h",
+        "artist_name":"El Combo Linga",
+        "track_name":"La jara",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"3juANwRFWOSREvJIXULiGJ",
+        "artist_name":"David DeMaría",
+        "track_name":"Cada vez que estoy sin ti (En Directo) - Live",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"3juANwRFWOSREvJIXULiGJ",
+        "artist_name":"Vanesa Martín",
+        "track_name":"Cada vez que estoy sin ti (En Directo) - Live",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"0ocHcerHpNrYX57cdrZ7r7",
+        "artist_name":"Antonio José",
+        "track_name":"Quédate Conmigo",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"7shpNiDcCbitiKUC45pvW4",
+        "artist_name":"Isabel Do Diego",
+        "track_name":"Caricia",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"4UCO5xEyuzt4Fj70wJwNtT",
+        "artist_name":"Jaidek",
+        "track_name":"I'm a Mess",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"4RvG6pclIycmkydtvZqkzB",
+        "artist_name":"David DeMaría",
+        "track_name":"Lo que pudo ser - Acoustic Version",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"3WLAt8iRdkdli5iJ1Azj69",
+        "artist_name":"Vanesa Martín",
+        "track_name":"Complicidad - Munay vivo",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"2mOOUBL5sUIsN0RymJQ5dP",
+        "artist_name":"Jaidek",
+        "track_name":"I'm a Mess - Extended Mix",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"39Yl4fC9BWMFx6EYCGCHa6",
+        "artist_name":"Pedro Javier González",
+        "track_name":"Tabú",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"11242qtRx16NaRlhOacFwA",
+        "artist_name":"Manu Tenorio",
+        "track_name":"Blanco Añil",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"3H6iI0vGGGiVDcGqhEyojg",
+        "artist_name":"Antonio José",
+        "track_name":"A Un Milímetro De Ti",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"2iZWET22XxlKd8bFNC7Y7z",
+        "artist_name":"Vanesa Martín",
+        "track_name":"Trampas",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"7LJNgVFEa2hiyfMl18bFLG",
+        "artist_name":"Robert Michaels",
+        "track_name":"Playa del Sol",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"5EtbLWCzL9G08oWZMxoGK6",
+        "artist_name":"Vanesa Martín",
+        "track_name":"Si me olvidas",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"1U07XdO5Gf1yEAYk37aXKo",
+        "artist_name":"Pedro Javier González",
+        "track_name":"Pausa por Alegrías",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"58LXbyxuwVYGVHug4p3iDK",
+        "artist_name":"Antonio Orozco",
+        "track_name":"Volver A Empezar",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"1GiLYTgn6i3liWir4VEaj0",
+        "artist_name":"Al piano con Nata",
+        "track_name":"AIRE FLAMENCO",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"0Cm8fT31K0D1HoKkmrIpje",
+        "artist_name":"ESENCIA FLAMENCA",
+        "track_name":"Tu amor, mi fe",
+        "genre":"flamenco",
+        "year":2023
+    },
+    {
+        "id":"3XZz80971CZ9S8BUrvlNaV",
+        "artist_name":"Antonio Orozco",
+        "track_name":"Tenerte Es Como Ser",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"4Cpkdzq2RxWvlKTwnIW34U",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Moreno Tiene Que Ser",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"5MAIGGZkL1jXnKuqcuLIpB",
+        "artist_name":"David DeMaría",
+        "track_name":"Barcos de papel",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"46gzAoU5i01eX0zmMnvWNb",
+        "artist_name":"Antonio Orozco",
+        "track_name":"Ya Lo Sabes",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"46gzAoU5i01eX0zmMnvWNb",
+        "artist_name":"Luis Fonsi",
+        "track_name":"Ya Lo Sabes",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"3Pe7AratUsA9WbtP3YhIkw",
+        "artist_name":"Vanesa Martín",
+        "track_name":"Te has perdido quién soy",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"7cfmlTsMLjWuZ17KKoZsx4",
+        "artist_name":"Manu Tenorio",
+        "track_name":"Una Rosa Y Un Bolero",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"7cfmlTsMLjWuZ17KKoZsx4",
+        "artist_name":"Lolita",
+        "track_name":"Una Rosa Y Un Bolero",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"4KYZ3f2KvE88g6Et5mcsXl",
+        "artist_name":"Antoñita Moreno",
+        "track_name":"Puentecito",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"7lA2exhNRukYXFp8xDDwod",
+        "artist_name":"Jaidek",
+        "track_name":"I'm a Mess - Extended Mix",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"2NG9E1r3S7P2i5ucUqwLPK",
+        "artist_name":"Vanesa Martín",
+        "track_name":"Complicidad - Munay vivo",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"498WfDn42SvDpu8QU1fP8H",
+        "artist_name":"Antonio José",
+        "track_name":"Fingir Amor",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"5PYFKj4I0vMP4ceWo7Vqhy",
+        "artist_name":"Antonio Orozco",
+        "track_name":"Devuélveme La Vida",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"1FsUjxaVllUIhymvaJxnB0",
+        "artist_name":"Antonio Orozco",
+        "track_name":"El Viaje",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"3hC19n5waQSU8coMeBxZXm",
+        "artist_name":"Vanesa Martín",
+        "track_name":"4 Paredes",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"3hC19n5waQSU8coMeBxZXm",
+        "artist_name":"Yami Safdie",
+        "track_name":"4 Paredes",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"0tosmdLDTaXhFXkTvRWuju",
+        "artist_name":"Manu Tenorio",
+        "track_name":"Tu Frialdad",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"0tosmdLDTaXhFXkTvRWuju",
+        "artist_name":"Hugo Salazar",
+        "track_name":"Tu Frialdad",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"4Lgj2PctTVWOdbg4lVEPM8",
+        "artist_name":"Vanesa Martín",
+        "track_name":"De tus ojos",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"1ZcgQ4PpkOQYCdW62ckS7u",
+        "artist_name":"Kiki Morente",
+        "track_name":"Bulería Por Soleá",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"1ZcgQ4PpkOQYCdW62ckS7u",
+        "artist_name":"Manuel Parrilla",
+        "track_name":"Bulería Por Soleá",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"7LEdeh88EpW8GjIs28ZtTu",
+        "artist_name":"Yerai Cortés",
+        "track_name":"SONAR POR BULERÍAS",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"1i2F106I4iYIdoc0s37eTd",
+        "artist_name":"C de Cama",
+        "track_name":"Navidad Flamenca",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"2YLcms6wtZ0z1cx5YTrD1U",
+        "artist_name":"Yerai Cortés",
+        "track_name":"SONAR POR BULERÍAS",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"2Ri0F30bu0Y4zNYse52T5J",
+        "artist_name":"Hermanos Navarro",
+        "track_name":"Aire Fresco",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"3lqeCuCbUENqsY8a1LPqPl",
+        "artist_name":"Antonio Rey",
+        "track_name":"Historias de un Flamenco",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"3lqeCuCbUENqsY8a1LPqPl",
+        "artist_name":"Makarines",
+        "track_name":"Historias de un Flamenco",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"0Vf4z2lwSW7dRqqM5Gsg91",
+        "artist_name":"Robert 'Robi' Svärd",
+        "track_name":"El Barrio",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"0IzYrsOqqbbqfmMO7WOj4L",
+        "artist_name":"Francisco Vinuesa",
+        "track_name":"Yo Fui Piedra",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"0IzYrsOqqbbqfmMO7WOj4L",
+        "artist_name":"Kike Terrón",
+        "track_name":"Yo Fui Piedra",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"5wnKtYf9TDOHKiqQs2ZZS7",
+        "artist_name":"Elias Soler",
+        "track_name":"Yo Soy Flamenco",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"63kNAjClvIPQdnebRwUFhu",
+        "artist_name":"AL SON FLAMENCO",
+        "track_name":"ERES",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"0n9ogRWhQMHexhHzzxjlTF",
+        "artist_name":"ESENCIA FLAMENCA",
+        "track_name":"El Amor",
+        "genre":"flamenco",
+        "year":2024
+    },
+    {
+        "id":"29jrEoebSKqKCU6GqB6Q72",
+        "artist_name":"Miguel Poveda",
+        "track_name":"Vente Tú Conmigo - Remasterizado 2025",
+        "genre":"flamenco",
+        "year":2025
+    },
+    {
+        "id":"29jrEoebSKqKCU6GqB6Q72",
+        "artist_name":"Joan Albert Amargos",
+        "track_name":"Vente Tú Conmigo - Remasterizado 2025",
+        "genre":"flamenco",
+        "year":2025
+    },
+    {
+        "id":"29jrEoebSKqKCU6GqB6Q72",
+        "artist_name":"Chicuelo",
+        "track_name":"Vente Tú Conmigo - Remasterizado 2025",
+        "genre":"flamenco",
+        "year":2025
+    },
+    {
+        "id":"06JXz7KMkKy1CDWBRXS3hG",
+        "artist_name":"Rocío Márquez",
+        "track_name":"Arde – seguiriya",
+        "genre":"flamenco",
+        "year":2025
+    },
+    {
+        "id":"06JXz7KMkKy1CDWBRXS3hG",
+        "artist_name":"Pedro Rojas Ogáyar",
+        "track_name":"Arde – seguiriya",
+        "genre":"flamenco",
+        "year":2025
+    },
+    {
+        "id":"6Ka6K6R2EHLSnrXTCnUhBf",
+        "artist_name":"Rocío Márquez",
+        "track_name":"Arde – seguiriya",
+        "genre":"flamenco",
+        "year":2025
+    },
+    {
+        "id":"6Ka6K6R2EHLSnrXTCnUhBf",
+        "artist_name":"Pedro Rojas Ogáyar",
+        "track_name":"Arde – seguiriya",
+        "genre":"flamenco",
+        "year":2025
+    },
+    {
+        "id":"7gCw6uIIbCWk24HUHtlp5O",
+        "artist_name":"StyleShift AI",
+        "track_name":"Nothing Else Matters (Flamenco)",
+        "genre":"flamenco",
+        "year":2025
+    }
+]
