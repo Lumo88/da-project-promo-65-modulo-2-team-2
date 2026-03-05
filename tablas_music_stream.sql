@@ -21,7 +21,7 @@ USE `music_stream` ;
 -- Table `music_stream`.`canciones`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `music_stream`.`canciones` (
-  `id_cancion` INT NOT NULL AUTO_INCREMENT,
+  `id_cancion` VARCHAR (100) NOT NULL ,
   `nombre` VARCHAR(100) NULL,
   `año` INT NULL,
   `artista` VARCHAR(100) NULL,
@@ -48,7 +48,7 @@ ENGINE = InnoDB;
 -- Table `music_stream`.`canciones_artistas`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `music_stream`.`canciones_artistas` (
-  `canciones_id_cancion` INT NOT NULL,
+  `canciones_id_cancion` VARCHAR (100) NOT NULL,
   `artistas_id_artista` INT NOT NULL,
   PRIMARY KEY (`canciones_id_cancion`, `artistas_id_artista`),
   INDEX `fk_canciones_has_artistas_artistas1_idx` (`artistas_id_artista` ASC) VISIBLE,
@@ -69,3 +69,5 @@ ENGINE = InnoDB;
 SET SQL_MODE=@OLD_SQL_MODE;
 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
+
+
