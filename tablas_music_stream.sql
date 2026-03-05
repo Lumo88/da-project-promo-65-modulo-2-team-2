@@ -31,7 +31,7 @@ ENGINE = InnoDB;
 -- Table `music_stream`.`canciones`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `music_stream`.`canciones` (
-  `id` INT NOT NULL,
+  `id` VARCHAR(100) NOT NULL,
   `track_name` VARCHAR(100) NULL,
   `year` INT NULL,
   `genre` VARCHAR(100) NULL,
