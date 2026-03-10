@@ -13,8 +13,10 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,N
 
 -- -----------------------------------------------------
 -- Schema music_stream
--- -----------------------------------------------------
-CREATE SCHEMA IF NOT EXISTS `music_stream` DEFAULT CHARACTER SET utf8 ;
+-- ---------------------------------.0--------------------
+CREATE SCHEMA IF NOT EXISTS `music_stream` 
+DEFAULT CHARACTER SET utf8mb4 
+COLLATE utf8mb4_unicode_ci;
 USE `music_stream` ;
 
 -- -----------------------------------------------------
@@ -23,9 +25,9 @@ USE `music_stream` ;
 CREATE TABLE IF NOT EXISTS `music_stream`.`artistas` (
   `nombre` VARCHAR(100) NOT NULL,
   `biografia` LONGTEXT NULL,
-  `listeners` VARCHAR(50) NULL,
-  `similares` VARCHAR(500) NULL,
-  `playcount` VARCHAR(50) NULL,
+  `listeners` INT NULL,
+  `similares` LONGTEXT NULL,
+  `playcount` INT NULL,
   PRIMARY KEY (`nombre`))
 ENGINE = InnoDB;
 
@@ -34,11 +36,11 @@ ENGINE = InnoDB;
 -- Table `music_stream`.`canciones`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `music_stream`.`canciones` (
-  `id` INT NOT NULL,
-  `track_name` VARCHAR(100) NULL,
+  `id` VARCHAR (100),
+  `artist_name` VARCHAR(255) NOT NULL,
+  `track_name` LONGTEXT NULL,
   `year` INT NULL,
-  `genre` VARCHAR(100) NULL,
-  `artist_name` VARCHAR(100) NOT NULL,
+  `genre` VARCHAR(255) NULL,
   PRIMARY KEY (`id`, `artist_name`),
   INDEX `fk_canciones_artistas_idx` (`artist_name` ASC) VISIBLE,
   CONSTRAINT `fk_canciones_artistas`
