@@ -2,7 +2,7 @@
 ### Proyecto Final de SQL y Python | Equipo LOLAVAN
 
 ![Logo de LOLAVAN MUSIC](https://via.placeholder.com/800x200?text=LOLAVAN+MUSIC+PROYECTO+SQL) 
-*(Sugerencia: Sube tu logo a la carpeta del repo y cambia este enlace por el nombre del archivo)*
+*(Pdte Subir logo a la carpeta del repo y cambiar este enlace por el nombre del archivo)*
 
 ## 👥 Nuestro Equipo
 **LOLAVAN** nace de la sinergia de nuestras integrantes:
