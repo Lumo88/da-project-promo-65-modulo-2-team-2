@@ -1,8 +1,9 @@
 # 🎵 LOLAVAN MUSIC: Data Engineering & Analytics
 ### Proyecto Final de SQL y Python | Equipo LOLAVAN
 
-![Logo de LOLAVAN MUSIC](https://via.placeholder.com/800x200?text=LOLAVAN+MUSIC+PROYECTO+SQL) 
-*(Pdte Subir logo a la carpeta del repo y cambiar este enlace por el nombre del archivo)*
+<p align="center">
+  <img src="logo.png" alt="Logo LOLAVAN MUSIC" width="300">
+</p>
 
 ## 👥 Nuestro Equipo
 **LOLAVAN** nace de la sinergia de nuestras integrantes:
