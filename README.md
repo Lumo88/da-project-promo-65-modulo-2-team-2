@@ -2,7 +2,7 @@
 ### Proyecto Final de SQL y Python | Equipo LOLAVAN
 
 <p align="center">
-  <img src="logo.png" alt="Logo LOLAVAN MUSIC" width="300">
+  <img src="logo.png" alt="Logo LOLAVAN MUSIC" width="200">
 </p>
 
 ## 👥 Nuestro Equipo
