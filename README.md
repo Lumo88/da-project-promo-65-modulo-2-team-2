@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Descripción del Proyecto
-Este ecosistema de datos ha sido diseñado para integrar, procesar y analizar la industria musical comprendida desde 2020 a 2026. Combinamos datos de **Spotify** y **Last.fm** para construir una base de datos relacional robusta que permite realizar análisis de KPIs, popularidad y versatilidad de artistas en 5 géneros musicales.
+Este ecosistema de datos ha sido diseñado para integrar, procesar y analizar la industria musical comprendida desde 2020 a 2025. Combinamos datos de **Spotify** y **Last.fm** para construir una base de datos relacional robusta que permite realizar análisis de KPIs, popularidad y versatilidad de artistas en 5 géneros musicales.
 
 ## 🛠️ Pipeline de Datos (ETL)
 El proyecto cubre el ciclo de vida completo del dato:
