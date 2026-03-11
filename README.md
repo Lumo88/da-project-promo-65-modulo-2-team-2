@@ -81,4 +81,4 @@ El proyecto **LOLAVAN MUSIC** ha permitido al equipo enfrentar retos reales de i
 4.  **Trabajo en Equipo:** El éxito de LOLAVAN radica en la coordinación de las 5 integrantes para unificar criterios de modelado, asegurando que los datos extraídos por cada una fueran compatibles en el esquema global.
 
 ---
-© 2024 LOLAVAN MUSIC - Proyecto Educativo
+© 2026 LOLAVAN MUSIC - Proyecto Educativo
