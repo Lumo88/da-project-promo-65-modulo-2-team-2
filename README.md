@@ -1,7 +1,7 @@
 # 🎵 LOLAVAN MUSIC: Data Engineering & Analytics
 ### Proyecto Final de SQL y Python | Equipo LOLAVAN
 
-<p align="center">
+<p align="left">
   <img src="logo.png" alt="Logo LOLAVAN MUSIC" width="200">
 </p>
 
