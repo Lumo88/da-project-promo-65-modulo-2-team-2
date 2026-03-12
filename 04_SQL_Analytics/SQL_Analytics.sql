@@ -100,7 +100,7 @@ SELECT a.nombre AS artista,
             WHERE artist_name = a.nombre) > 1 THEN 'Sí'
         ELSE 'No'
     END AS multigenero
-FROM artistas AS a;
+	FROM artistas AS a;
 
 
 -- ======================================================
@@ -122,9 +122,9 @@ SELECT DISTINCT
         WHEN a.listeners >= 439532.36 THEN 'Mayor'
         ELSE 'Menor'
     END AS nivel_popularidad
-FROM artistas AS a
-INNER JOIN canciones AS c
-    ON a.nombre = c.artist_name;
+	FROM artistas AS a
+	INNER JOIN canciones AS c
+		ON a.nombre = c.artist_name;
 
 
 -- ======================================================
