@@ -145,7 +145,7 @@ SELECT artist_name AS artista,
 
 
 -- ======================================================
-/* 7. Artista con más canciones en un mismo año
+/* 7. Artista con más canciones por año
 
 Queremos conocer qué artista tiene más canciones en un año concreto. 
 Agrupamos los registros de la tabla canciones por artista y año, contando cuántas canciones aparecen en cada combinación a través de GROUP BY.
