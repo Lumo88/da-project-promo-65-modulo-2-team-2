@@ -41,8 +41,8 @@ Identificación de artistas "puristas" mediante subconsultas que comparan su ren
 ### 🕵️ Auditoría de Datos: "Huérfanos y Fantasmas"
 Implementación de controles de calidad mediante `LEFT JOIN` e `IS NULL` para detectar inconsistencias en la base de datos y asegurar un entorno de datos "limpio".
 
-### 🏆 El "Top Hit" por Artista
-Resolución técnica compleja: extracción del éxito principal de cada artista sin utilizar funciones de ventana, optimizando mediante subconsultas correlacionadas.
+### 🔀 Detección de Homónimos: "Mismo Título, Diferente ADN"
+Identificamos canciones que comparten título pero pertenecen a artistas y géneros distintos, optimizando la consulta para evitar duplicados espejo y comparaciones redundantes.
 
 ---
 
