@@ -51,14 +51,17 @@ Resolución técnica compleja: extracción del éxito principal de cada artista 
 Para encontrar artistas con más canciones que la media global, implementamos la siguiente lógica de subconsultas:
 
 <pre>
-SELECT a.name AS "Artista", COUNT(s.id) AS "Total Canciones"
-FROM artists a
-JOIN songs s ON a.id = s.artist_id
-GROUP BY a.name
-HAVING COUNT(s.id) > (
-    SELECT AVG(song_count) 
-    FROM (SELECT COUNT(id) AS song_count FROM songs GROUP BY artist_id) AS sub
-);
+SELECT 
+    track_name AS cancion, 
+    GROUP_CONCAT(DISTINCT artist_name ORDER BY artist_name SEPARATOR ', ') AS artistas,
+    GROUP_CONCAT(DISTINCT genre ORDER BY genre SEPARATOR ' / ') AS generos,
+    COUNT(DISTINCT artist_name) AS total_artistas,
+    COUNT(DISTINCT genre) AS total_generos
+	FROM canciones
+	GROUP BY track_name
+	HAVING COUNT(DISTINCT artist_name) > 1 
+	   AND COUNT(DISTINCT genre) > 1
+	ORDER BY COUNT(DISTINCT genre) DESC;
 </pre>
 ## 📂 Estructura del Repositorio
 
